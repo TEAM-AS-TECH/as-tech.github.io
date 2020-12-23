@@ -6,8 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-
+title: AS Tech
+remote_theme : daattali/beautiful-jekyll
+url                      : "https://as-tech.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" 
 # Your name to show in the footer
 author: Some Person
 
