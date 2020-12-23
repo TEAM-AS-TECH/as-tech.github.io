@@ -1,5 +1,7 @@
 ---
-title: First-Post
+title: 블로그 사용 지침
 subtitle: Tutorial
 date: 2020-12-23 14:33:28
 ---
+여기다가 각자의 공부 영역이나 지식을 기술해주시면 됩니다!
+화이팅!
