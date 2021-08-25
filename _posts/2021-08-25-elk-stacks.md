@@ -6,7 +6,7 @@
 
 [1. ELK Stack](#1-elk-stack)
 
-[2. Elastic Search](2-elastic-search)
+[2. Elastic Search](#2-elastic-search)
 
 [3. Logstash](#3-logstash)
 
