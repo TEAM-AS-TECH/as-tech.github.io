@@ -23,7 +23,7 @@
 
 ----
 
-![elk-logo.jpg](./img/elk-logo.jpg)
+![elk-logo.jpg](~/_posts/img/elk-logo.jpg)
 
 
 
