@@ -7,7 +7,7 @@
 
 ### 목차
 
-[1. ELK Stack](#1.-ELK-Stack)
+[1. ELK Stack](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#1-elk-stack)
 
 [2. Elastic Search](#2)
 
