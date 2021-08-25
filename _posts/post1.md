@@ -7,22 +7,26 @@
 
 ### 목차
 
-[1. 이엘케이 스택](#1)
-[2. 엘라스틱 서치](#2)
+[1. ELK Stack](#1.-ELK-Stack)
+
+[2. Elastic Search](#2)
+
 [3. 로그 스테시](#3)
+
 [4. 키바나](#4)
+
 [5. 비츠](#5)
 
 
 ---
 
 
-## 1. 이엘케이 스택
+## 1. ELK Stack
 
 
 ----
 
-![elk-logo.jpg](/d/4V7blX3LPlpD)
+![elk-logo.jpg](/img/elk-logo.jpg)
 
 **ELK STACK.**
 
@@ -46,7 +50,7 @@
 
 ---
   
-## 2. 엘라스틱 서치
+## 2. Elastic Search
 
 
 ---
