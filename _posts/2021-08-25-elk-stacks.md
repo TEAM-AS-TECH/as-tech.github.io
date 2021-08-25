@@ -319,7 +319,10 @@ Beats 역시 현재는 Elastic Stack에 맞는 로고로 다시 디자인 되었
 ### 출처
 
 
-ELK Stack 공식 홈페이지 : https://www.elastic.co/kr/what-is/elk-stack
-김종민님 Elastic 가이드북 : https://esbook.kimjmin.net/
-소영님 개발 블로그 : https://soyoung-new-challenge.tistory.com/99
-허원철님 개발 블로그 : https://heowc.tistory.com/49
+ELK Stack 공식 홈페이지 : <https://www.elastic.co/kr/what-is/elk-stack>
+
+김종민님 Elastic 가이드북 : <https://esbook.kimjmin.net/>
+
+소영님 개발 블로그 : <https://soyoung-new-challenge.tistory.com/99>
+
+허원철님 개발 블로그 : <https://heowc.tistory.com/49>
