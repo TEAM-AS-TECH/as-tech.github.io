@@ -23,7 +23,7 @@
 
 ----
 
-![elk-logo.jpg](../../_posts/img/elk-logo.jpg)
+![elk-logo](https://user-images.githubusercontent.com/52565040/130735067-73335cb1-bbbb-448d-b746-0f0bb9ff1c38.jpg)
 
 
 
@@ -41,7 +41,7 @@
 
 오픈 소스 홈페이지 https://www.elastic.co/kr/ 에 들어가시면, 좀 더 자세한 문서를 보실 수 있습니다.
 
-![elk_structure.JPG](./img/elk_structure.JPG)
+![elk_structure.JPG](https://user-images.githubusercontent.com/52565040/130735064-671389c4-3f35-43c7-8e92-8365271c904a.JPG)
 
 
 
@@ -52,9 +52,8 @@
 
 ---
 
-![es-logo.jpg](./img/es-logo.jpg)
+![es-logo](https://user-images.githubusercontent.com/52565040/130735068-5109029a-826c-40c4-9897-ebe9e21d8453.jpg)
 
-**Elastic Search.**
 
 검색 엔진 중 하나입니다. 네이버나 구글같은 포털 사이트에서 볼 수 있는 검색창이라고 할 수 있습니다. 검색을 해서 사용자가 원하는 결과를 받아오는 것 뿐만 아니라, **연관 검색어**와 같이 사용자가 원하는 결과를 추측하는 알고리즘까지 제공합니다. 설치 과정과 사용 방법은 비교적 쉽고 간편하며, AWS와 같은 클라우드 서비스와 연동이 가능합니다.
 
@@ -93,7 +92,8 @@
 **Elastic Search**는 바로 이 BM25 알고리즘을 활용합니다.
 
 [BM25의 원리](https://inyl.github.io/search_engine/2017/04/01/bm25.html)를 자세히 알아볼 필요까지는 없습니다. 굉장히 복잡하기 때문인데, 일단 BM25 스코어 수식부터가 아래와 같습니다.
-![bm25.JPG](./img/bm25.JPG)
+
+![bm25](https://user-images.githubusercontent.com/52565040/130735060-e3c78309-da38-4d2c-8cb6-20ceb4d87afc.JPG)
 
 
 
@@ -136,12 +136,12 @@ Elastic Search의 데이터들은 인덱스(Index) 라는 논리적인 집합 �
 ## 3. Logstash
 
 ---
-![logstash-logo.jpg](./img/logstash-logo.jpg)
+
+![logstash-logo](https://user-images.githubusercontent.com/52565040/130735074-78f76ce5-dbf7-4997-a6db-e63e7ad89546.jpg)
 
 **Logstash.**
 
-![logstash.JPG](./img/logstash.JPG)
-
+![logstash](https://user-images.githubusercontent.com/52565040/130735072-e2e3b196-ec55-458e-b1f2-9216dafc280d.JPG)
 
 
 
@@ -160,7 +160,7 @@ Elastic Search와 마찬가지로 Apache 2.0 라이센스를 따르고 있어 �
 
 Logstash를 접하게 되면 가장 먼저, 가장 많이 나오는 단어가 이 파이프라이닝(Pipelining)입니다. 컴퓨터 공학에서 보통 파이프라인을 다음과 같이 설명하곤 합니다.
 
-![pipeline.JPG](./img/pipeline.JPG)
+![pipeline](https://user-images.githubusercontent.com/52565040/130735077-5bb65191-f8a4-4630-9caa-00e1722858f6.JPG)
 
 일련의 작업을 병렬적으로 일정 시간대 안에 배분하여 처리하는 것을 파이프라이닝이라고 합니다.
 
@@ -171,7 +171,8 @@ Logstash의 파이프라인에 들어가는 작업들은 세 가지입니다. �
 - 출력 : 다양한 데이터 저장소로 데이터를 전송
 
 
-![log-pipe.jpg](./img/log-pipe.jpg)
+![log-pipe](https://user-images.githubusercontent.com/52565040/130735071-b6778343-85a0-4779-b145-2aa93dee5edc.jpg)
+
 
 ---
 ### 입력
@@ -228,14 +229,14 @@ Elastic Search외에도 다양한 경로의 출력이 가능하기 때문에 Ela
 
 ---
 
-![kibana.jpg](./img/kibana.jpg)
+![kibana](https://user-images.githubusercontent.com/52565040/130735069-bb1be9fe-09e8-4d8d-ba9f-065201170998.jpg)
 
-
-**Kibana**
 라시드 칸(Rashid Khan)이 개발한 Elastic Search 시각화 도구입니다. 
 
 키바나 빌드 성공 화면
-![kibana-run.jpg](./img/kibana-run.jpg)
+
+![kibana-run](https://user-images.githubusercontent.com/52565040/130735070-7504719c-900e-4abe-b779-8cac257567b5.jpg)
+
 
 Kibana는 Elasticsearch를 가장 쉽게 시각화 할 수 있는 도구입니다. 검색, 그리고 aggregation의 집계 기능을 이용해 Elasticsearch로 부터 문서, 집계 결과 등을 불러와 웹 도구로 시각화를 합니다. Discover, Visualize, Dashboard 3개의 기본 메뉴와 다양한 어플리케이션들로 구성되어 있고, 플러그인을 통해 App의 설치가 가능합니다.
 
@@ -262,7 +263,7 @@ Elastic에서 제공하는 유료 플러그인인 X-Pack을 설치하게 되면 
 
 ---
 
-![beats-logo.jpg](./img/beats-logo.jpg)
+![beats-logo](https://user-images.githubusercontent.com/52565040/130735058-f9eb7b43-0068-4fe7-b16b-ac8d0805fb7a.jpg)
 
 **Beats**
 Logstash를 경량화해서 쓸 수 있는 데이터 수집기입니다. FileBeats와 Logstash 비교는 [Logstash](#3)항목에서 서술하였습니다.
