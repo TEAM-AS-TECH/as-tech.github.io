@@ -235,7 +235,7 @@ Elastic Search외에도 다양한 경로의 출력이 가능하기 때문에 Ela
 라시드 칸(Rashid Khan)이 개발한 Elastic Search 시각화 도구입니다. 
 
 키바나 빌드 성공 화면
-![kibana-run.png](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/kibana-run.jpg)
+![kibana-run.jpg](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/kibana-run.jpg)
 
 Kibana는 Elasticsearch를 가장 쉽게 시각화 할 수 있는 도구입니다. 검색, 그리고 aggregation의 집계 기능을 이용해 Elasticsearch로 부터 문서, 집계 결과 등을 불러와 웹 도구로 시각화를 합니다. Discover, Visualize, Dashboard 3개의 기본 메뉴와 다양한 어플리케이션들로 구성되어 있고, 플러그인을 통해 App의 설치가 가능합니다.
 
