@@ -41,7 +41,7 @@
 
 오픈 소스 홈페이지 https://www.elastic.co/kr/ 에 들어가시면, 좀 더 자세한 문서를 보실 수 있습니다.
 
-![structure.JPG](/d/1Ma7lQ1u7g3u)
+![structure.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/elk-structure.JPG)
 
 
 
@@ -93,7 +93,7 @@
 **Elastic Search**는 바로 이 BM25 알고리즘을 활용합니다.
 
 [BM25의 원리](https://inyl.github.io/search_engine/2017/04/01/bm25.html)를 자세히 알아볼 필요까지는 없습니다. 굉장히 복잡하기 때문인데, 일단 BM25 스코어 수식부터가 아래와 같습니다.
-![bm25](/d/1dxcZz1WfCoZ "bm25 수식")
+![bm25](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/bm25.jpg)
 
 
 
@@ -140,7 +140,7 @@ Elastic Search의 데이터들은 인덱스(Index) 라는 논리적인 집합 �
 
 **Logstash.**
 
-![logstash.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/logstash.jpg)
+![logstash.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/logstash.JPG)
 
 
 
