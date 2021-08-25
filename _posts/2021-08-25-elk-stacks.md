@@ -4,15 +4,15 @@
 
 ### 목차
 
-[1. ELK Stack](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#1-elk-stack)
+[1. ELK Stack](#1-elk-stack)
 
-[2. Elastic Search](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#2-elastic-search)
+[2. Elastic Search](2-elastic-search)
 
-[3. Logstash](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#3-logstash)
+[3. Logstash](#3-logstash)
 
-[4. Kibana](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#4-kibana)
+[4. Kibana](#4-kibana)
 
-[5. Beats](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/post1.md#5-beats)
+[5. Beats](#5-beats)
 
 
 ---
