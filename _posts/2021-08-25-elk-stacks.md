@@ -23,7 +23,7 @@
 
 ----
 
-![elk-logo.jpg](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/elk-logo.jpg)
+![elk-logo.jpg](./img/elk-logo.jpg)
 
 
 
