@@ -41,7 +41,7 @@
 
 오픈 소스 홈페이지 https://www.elastic.co/kr/ 에 들어가시면, 좀 더 자세한 문서를 보실 수 있습니다.
 
-![structure.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/elk-structure.JPG)
+![elk_structure.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/elk_structure.JPG)
 
 
 
@@ -93,7 +93,7 @@
 **Elastic Search**는 바로 이 BM25 알고리즘을 활용합니다.
 
 [BM25의 원리](https://inyl.github.io/search_engine/2017/04/01/bm25.html)를 자세히 알아볼 필요까지는 없습니다. 굉장히 복잡하기 때문인데, 일단 BM25 스코어 수식부터가 아래와 같습니다.
-![bm25](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/bm25.jpg)
+![bm25.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/bm25.JPG)
 
 
 
@@ -160,7 +160,7 @@ Elastic Search와 마찬가지로 Apache 2.0 라이센스를 따르고 있어 �
 
 Logstash를 접하게 되면 가장 먼저, 가장 많이 나오는 단어가 이 파이프라이닝(Pipelining)입니다. 컴퓨터 공학에서 보통 파이프라인을 다음과 같이 설명하곤 합니다.
 
-![pipeline.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/pipeline.jpg)
+![pipeline.JPG](https://github.com/TEAM-AS-TECH/team-as-tech.github.io/blob/master/_posts/img/pipeline.JPG)
 
 일련의 작업을 병렬적으로 일정 시간대 안에 배분하여 처리하는 것을 파이프라이닝이라고 합니다.
 
